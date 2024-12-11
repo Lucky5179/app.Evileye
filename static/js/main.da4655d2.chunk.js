@@ -8576,7 +8576,7 @@
                             className: "flex items-center w-1/2",
                             children: [
                               Object(kn.jsx)(Rd, {
-                                href: "https://behodler.io",
+                                href: "https://evil-eye.vercel.app",
                                 rel: "noreferrer",
                                 target: "_blank",
                                 children: Object(kn.jsx)(_n, {
@@ -8589,7 +8589,7 @@
                                   "text-white font-bold hidden sm:block",
                                 style: { fontSize: 24 },
                                 children: Object(kn.jsx)("a", {
-                                  href: "https://behodler.io",
+                                  href: "https://evil-eye.vercel.app",
                                   rel: "noreferrer",
                                   target: "_blank",
                                   className: "hover:text-high-emphesis",
